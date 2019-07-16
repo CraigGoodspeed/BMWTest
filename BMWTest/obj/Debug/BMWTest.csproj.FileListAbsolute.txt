@@ -1,0 +1,9 @@
+C:\development\BMWTest\BMWTest\bin\Debug\BMWTest.exe.config
+C:\development\BMWTest\BMWTest\bin\Debug\BMWTest.exe
+C:\development\BMWTest\BMWTest\bin\Debug\BMWTest.pdb
+C:\development\BMWTest\BMWTest\obj\Debug\BMWTest.csprojResolveAssemblyReference.cache
+C:\development\BMWTest\BMWTest\obj\Debug\BMWTest.Form1.resources
+C:\development\BMWTest\BMWTest\obj\Debug\BMWTest.Properties.Resources.resources
+C:\development\BMWTest\BMWTest\obj\Debug\BMWTest.csproj.GenerateResource.Cache
+C:\development\BMWTest\BMWTest\obj\Debug\BMWTest.exe
+C:\development\BMWTest\BMWTest\obj\Debug\BMWTest.pdb
